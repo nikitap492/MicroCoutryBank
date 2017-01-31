@@ -1,0 +1,5 @@
+rootProject.name = 'CountryBank'
+
+include "config-service"
+include "message-service"
+include "registry-service"
